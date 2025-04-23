@@ -5,6 +5,7 @@ arroz con pescado y tajadas
 arroz con carne asada y salsa de maracuya
 papitas con salchicha
 <<<<<<< HEAD
+<<<<<<< HEAD
 carne con arroz
 =======
 
@@ -16,3 +17,5 @@ banana split
 >>>>>>> rama02
 postre de sandia
 
+=======
+>>>>>>> parent of 880e4 (nuevocomida)
