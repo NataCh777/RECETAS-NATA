@@ -4,4 +4,15 @@ pastas con carne
 arroz con pescado y tajadas 
 arroz con carne asada y salsa de maracuya
 papitas con salchicha
+<<<<<<< HEAD
 carne con arroz
+=======
+
+
+postres ricos
+postre de chocolate
+helado de vainilla
+banana split
+>>>>>>> rama02
+postre de sandia
+
