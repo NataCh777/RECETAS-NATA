@@ -4,10 +4,7 @@ pastas con carne
 arroz con pescado y tajadas 
 arroz con carne asada y salsa de maracuya
 papitas con salchicha
-<<<<<<< HEAD
-<<<<<<< HEAD
 carne con arroz
-=======
 
 
 postres ricos
@@ -18,4 +15,5 @@ banana split
 postre de sandia
 
 =======
->>>>>>> parent of 880e4 (nuevocomida)
+>>>>>>> parent of 880e4 (comidanuevaagregada)
+
