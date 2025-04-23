@@ -15,9 +15,3 @@ banana split
 >>>>>>> rama02
 postre de sandia
 
-=======
->>>>>>> parent of 880e4 (comidanuevaagregada)
-
-=======
->>>>>>> parent of bbe1f (postres deliciosos)
-
